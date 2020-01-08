@@ -24,10 +24,14 @@
 ![회귀분석](http://image.yes24.com/momo/TopCate107/MidCate10/10698485.jpg)
 
 - 교재2 : 회귀분석
-  - 8장 - 일반화 선형모형 I
-  - 9장 - 일반화 선형모형 II
-  - 10장 - 비선형 회귀모형
+  - 8장 - 일반화 선형모형 I (-> Ch 10.R)
+  
+  - 9장 - 일반화 선형모형 II (-> Ch 11.R)
 
+  - 10장 - 비선형 회귀모형 (-> Ch 12.R)
+  
+    
+  
 - Final Project1 : 
 - Final Project2 : 
 
