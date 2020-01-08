@@ -1,5 +1,5 @@
 # Regression_Analysis_with_R
-**[ 회귀분석1, 2 ] **
+**[ 회귀분석1, 2 ]**
 
 - 교육 일시
   - 회귀분석1 : 2017/03/02 - 2017/06/21
@@ -23,15 +23,15 @@
 
 ![회귀분석](http://image.yes24.com/momo/TopCate107/MidCate10/10698485.jpg)
 
-- 교재2 : 회귀분석
-  - 8장 - 일반화 선형모형 I (-> Ch 10.R)
+- 교재2 : 회귀분석 (-> GLM 실습.R)
+  - 8장 - 일반화 선형모형 I
   
-  - 9장 - 일반화 선형모형 II (-> Ch 11.R)
+  - 9장 - 일반화 선형모형 II
 
-  - 10장 - 비선형 회귀모형 (-> Ch 12.R)
+  - 10장 - 비선형 회귀모형
   
     
   
-- Final Project1 : 
-- Final Project2 : 
+- Final Project1 : 청소년 사망원인 분석 프로젝트
+- Final Project2 : 타이타닉 생존여부 예측 프로젝트
 
